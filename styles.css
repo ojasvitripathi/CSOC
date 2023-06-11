@@ -43,9 +43,13 @@
 .alertbutton {
     background-color: red;
     color: white;
-    width: 20px;
-    height: 20px;
+    width: 80px;
+    height: 80px;
     border: 1px solid blue;
+}
+
+.palert {
+  align: center;
 }
 
                                                 /* SMALL SIZED DEVICES */
