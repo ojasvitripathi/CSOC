@@ -40,6 +40,14 @@
     border: 5px solid blue;
 }
 
+.alertbutton {
+    background-color: red;
+    color: white;
+    width: 20px;
+    height: 20px;
+    border: 1px solid blue;
+}
+
                                                 /* SMALL SIZED DEVICES */
 @media (max-width: 767px) {
 
